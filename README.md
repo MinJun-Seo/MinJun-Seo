@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ... c++ and python programs
+- ⚡ Fun fact: ... my hobby is dance, so I want to make program about dance help
 <!--
 **MinJun-Seo/MinJun-Seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
